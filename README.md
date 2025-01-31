@@ -52,7 +52,7 @@ migration:
 To run the application, use the following command:
 
 ```bash
-./gradlew bootRun
+mvn spring-boot:run
 ```
 ## Conclusion
 
