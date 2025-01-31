@@ -5,7 +5,7 @@
 
 The db-migrator-starter App is a Spring Boot application that explain how to use db-migrator.
 
-This app uses a Gradle build system, and it is configurable using the `application.yaml` file, which contains details about the databases and other system parameters.
+This app uses a maven build system, and it is configurable using the `application.yaml` file, which contains details about the databases and other system parameters.
 
 ## Prerequisites
 
